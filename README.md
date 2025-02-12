@@ -77,6 +77,10 @@ A simple GUI-based Morse Code Translator built using Python and Tkinter. It allo
 | $ (dollar) | ...-..-   | ! (exclamation) | -.-.-- |
 | @ (at)    | .--.-.    | Space     | /         |
 
+![image](https://github.com/user-attachments/assets/cab06242-d3b7-4637-93d7-a220c3374f44)
+
+
+![image](https://github.com/user-attachments/assets/e8f09ca3-5dee-4c16-b6ac-4b56a013c92f)
 
 **Contributing**
 ----------------
