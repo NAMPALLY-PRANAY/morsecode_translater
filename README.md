@@ -1,5 +1,4 @@
 # morsecode_translater
-Here's a README file you can use for your Morse Code Translator project:
 
 * * *
 
@@ -21,7 +20,7 @@ A simple GUI-based Morse Code Translator built using Python and Tkinter. It allo
 1.  Clone the repository:
     
     ```bash
-    git clone https://github.com/yourusername/morsecode_translator.git
+    git clone https://github.com/NAMPALLY-PRANAY/morsecode_translator.git
     cd morsecode_translator
     ```
     
